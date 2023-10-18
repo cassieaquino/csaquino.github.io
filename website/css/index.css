@@ -54,18 +54,18 @@
     font-size: 120px;
     margin-top: 0px;
     letter-spacing: 2px;
+    margin-bottom: 50px;
 }
 
 .about-button { 
-    position: absolute; 
     bottom: 5px;
 }
 
 .home-container button { 
     border-radius: 15px; 
     background-color: #FAF0E6; 
-    height: 27px;
-    width: 100px;
+    height: 50px;
+    width: 125px;
     border: none;
     color: #488a86;
     font-weight: 600;

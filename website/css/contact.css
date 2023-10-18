@@ -29,7 +29,6 @@
     flex-direction: column; 
     align-items: center;
     justify-content: center;
-    margin-bottom: 75px;
 }
 
 .contact-container h1 { 
@@ -51,7 +50,7 @@
 
 .contact-container img { 
     height: 450px; 
-    width: 500px; 
+    width: 475px; 
     border-radius: 10px;
     margin: 20px;
 }
@@ -82,8 +81,12 @@
     width: 500px;
 }
 
-.contact-text p{ 
-    margin-top: 200px;
+.text { 
+    padding: 150px;
+    width: 300px;
 }
 
+.text p { 
+    padding: 5px;
+}
 
