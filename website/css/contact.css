@@ -40,11 +40,10 @@
     margin-bottom: 0px;
 }
 
-.contact-container h4 { 
+.contact-container h2 { 
     font-family: Lato;
     font-style: italic;    
     color: #FAF0E6;
-    font-size: 15px;
     margin-top: 8px;
 }
 
